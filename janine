@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Feliz Cumpleaños</title>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>
+                    ¡Feliz Cumpleaños, Janine! </h1>
+                    <p>Quiero en este dia tan especial para ti regalarte esta pagina que se podra borrar pero quedara en nuestros corazones especialmente el tuyo. ¡DISFRUTALO CON MUCHO! </p>
+                    </section>
+            </header>
+            <section class="hero">
+                <img src="img6.jpg" alt="Cumpleañera">
+            </section>
+            <section class="card">
+                <h2>Un Mensaje Especial </h2>
+                <p>Saber que tengo una linda y hermosa amistad contigo me llena de mucha alegría 🤗🥰💖 no sabía que se podría querer tanto a alguien 💖🥰 gracias le doy a Dios siempre ♾️ porque el fue quien nos hizo cruzar nuestros caminos para encontrarnos 💞😊 quizás nunca eh sido el mejor amigo que puedas tener 🤗 Pero con todo mi corazón te digo que Te quiero muchísimo 🫂💖 no olvido la primera vez que nos hablamos tanto como en persona y en Messenger 🤭💖🫂 todas las cosas que te día de mi adolescencia 🤭💖🫂 sentí confianza desde la primera vez que te Vi 🤗💖 me brindaste tu amistad y tú compañía y todavía la atesoro 💖🤗🫂 espero que este pequeño gesto de mi parte pueda llenar un poco más de alegría en este día tan especial que es tu cumpleaños 🎂🥳 quizás sea desde la distancia que te célebre o talvez esté allá 😊💖🫂🤗 solo Dios sabe y conoce las cosas 🥰💞💖🫂 disfrutalo mucho 🥳🥳 y que viva la cumpleañeraaaaaaaa 🥳🥳🥳🥳🥳
+            </section>
+                    <h2>Recuerdo de mi Gradución</h2>
+                    <section class="gallery">
+                        <img src="img5.jpg" alt="Globos de cumpleaños">
+                        <p id="mi texto">El tiempo avanza cada día más y más 💖☺️ y en el trascurso de la vida nos encontramos a personas maravillosas, especiales, únicas ☺️💖 que nos encontramos en un lazo de tiempo 💖☺️ que Dios nos regala para conocernos 💖☺️ sin esperar que serias alguien muy importante para mí 💖☺️ que te iba a querer con todo mi corazón 💖☺️ y que un día se fue, Pero aún así te siento muy cerca 💖☺️ hemos celebrando nuestros cumpleaños juntos 💖☺️ nuestro mes 🤗💖 dónde nos deseamos lo mejor 💖☺️🤗 y lo mejor a Sido tu compañía en la vida 💖☺️ gracias le doy a Dios 💖 
+                            porque él te puso en mi camino para conocerte 🤗 y establecer una linda amistad 💖🫂 para ser una ayuda en un momento difícil 🫂💖🤗 todavía me acuerdo nuestras conversaciones por Messenger 🤭🫂 en la que te contaba lo que me pasaba y todo lo demás 🤭💖🫂 esperaba siempre poder saludarte cuando te veía en la iglesia 🤗💖🫂 esperaba pasar un momento contigo lleno de risa 🥰💖🫂 otro año más que Dios te ha dado y te celebro desde la distancia 🥰💖🫂🤗</p>
+                        <img src="img4.jpg" alt="Pastel de cumpleaños">
+                        <p>Quizás no sea de muchas palabras 😉💖🫂 Pero ya sabes cómo soy 🤭💖🫂 me alegro tanto de haber compartido contigo muchos momentos únicos 🤗💖🫂 cómo cuando te dije que me quería inscribir al curso de proyección Pero no tenía una laptop para practicar 💖🫂🤗☺️ me dijistes que eso no era impedimento que estaba la laptop de la Iglesia 💖🫂🤗 recuerdo esos momentos cuando proyectaba y tú me motivas a seguir adelante 🫂💖 quizás no lo sabías 💖🫂 Pero había momentos en la que no la pasaba bien 🫂💖🤗 Pero hay estabas tu para motivar me 🤗💖🫂 tuvieron 
+                            mucha paciencia conmigo para aprender y entender mis chistes agrios 🤭😅🫂💖 Pero te agradezco a ti y a Leandro por la paciencia y por enseñarme lo bonito que es comunicaciones 💖🫂🤗 recuerdo el día de graduación cuando me tomé una foto contigo ☺️🫂💖🤗 yo mucho antes ya te consideraba como mi mejor amiga 💖🫂🤗</p>
+                        <img src="img7.jpg" alt="Decoración con luces">
+                        <p>Y tuve la mayor bendición y hermoso regalo de parte de Dios 🥹🫂💖🤗 que fue ser nombrado como secretario del comité de comunicaciones 💖🫂🤗 dónde compartí contigo 🤗🫂💖🤗 me llene de alegría y de amor a esa área 🤗💖🫂 que estaba muy emocionado por estar hay 🤗🫂💖 y que lindo fue compartirlo contigo 🤗💖🫂🥰 me acuerdo de algunos momentos juntos 🤗🫂💖 que pasamos en el comité el primer año 💖🤗🫂🥰 dónde los momentos más inolvidables fueron cuando estábamos en la presencia de Dios 🫂🥹🫂💖💖 muchas gracias nuevamente ☺️ por la paciencia que 
+                            tenías hacia mi, en cuanto a llevar una secretaría 💖🫂🤗 aprendí mucho 💖🤗🥰 una nueva etapa de mi vida 💖🤗🫂 y hay seguías estando tú conmigo 💖🫂🤗🥰</p>
+                        <meta name="aniversario.mp4" content="aniversario.mp4" alt="Decoración con luces">
+                        <p>También agradezco mucho por estos 10años de amistad junto a ti 🤗🥳💖🫂 le agradezco aun mas a Dios de todavía contar contigo 🤗🥳💖🫂 se que no soy muy bueno con los diseños y los vídeos 🤭🫂💖 Pero lo que cuenta es la intención 🤗🥳💖🫂 Dios te bendiga siempre Janny 🥰💞🫂💖 gracias por estos 10años más 💖🫂💞🤗 y que sean Miles más que Dios nos regale 🫂💖🤗💞🥰 para poder estar en tus metas y logros 💖🤗🤗💞💖🥰💞🫂🤗 y así mismo que tú estés en los míos 🥳🤗💖💞🤗🥰🤗🫂💖 Tamd 🫂 feliz 10años de amistad Janine Sánchez 🤗💖🫂🤗💞🤗💞💖🥰🫂💞💞🤗🫂💖💞🤗💞🤗🥰💖💞💖💞🤗</p>
+                        <meta src="Feliz.mp4" alt="Decoración con luces">
+                        <p></p>
+                        <img src="img2.jpg" alt="Decoración con luces">
+                        <p></p>
+                    </section>
+                    <footer> todo es unbonito recuerdo de ese dia especial en que te conoci y que hoy celebro junto a ti desde la distancia HECHO POR: Jordan Guaranda con mucho cariño para TI 
+                    </footer>
+        </div>
+    </body>
+</html>
+
+:root{
+--bg1: #0f172a;
+  --accent1: #ec4899; /* rosa */
+  --accent2: #f59e0b; /* dorado */
+--card: rgba(255,255,255,0.05);
+--text: #fdf4ff;
+--muted: #fbcfe8;
+--radius: 14px;
+}
+ *{box-sizing:border-box}
+body{margin:0;font-family:'Poppins',sans-serif;background:linear-gradient(180deg,var(--bg1) 0%, #1e1b4b 100%);color:var(--text)}
+.container{max-width:1000px;margin:auto;padding:20px}
+header{text-align:center;padding:30px 10px}
+header h1{font-size:40px;background:linear-gradient(90deg,var(--accent1),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin:0}
+header p{color:var(--muted);font-size:18px;margin-top:8px}
+.hero{display:flex;flex-direction:column;align-items:center;gap:100px}
+.hero img{width:400px;height:400px;object-fit:cover;border-radius:70%;border:6px solid var(--accent1);box-shadow:0 8px 200px rgba(32,32,32,32.6)}
+.card{background:var(--card);padding:20px;border-radius:var(--radius);margin-top:20px;text-align:center;backdrop-filter:blur(6px)}
+.card h2{margin-top:0;color:var(--accent2)}
+.card p{color:var(--muted);line-height:1.6}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:20px}
+.gallery img{width:100%;height:500px;object-fit:cover;border-radius:var(--radius)}
+footer{text-align:center;margin-top:30px;color:var(--muted);font-size:20px}
+@media(max-width:600px){
+header h1{font-size:32px}
+.hero img{width:200px;height:200px}
+}
+
+img:hover {
+  transform: scale(1.05);
+  transition: all 0.5s ease-in-out;
+}
+
+.card :hover{
+  transform: translateY(-5px);
+  transition: all 0.5s ease-in-out;
+}
+
+
+

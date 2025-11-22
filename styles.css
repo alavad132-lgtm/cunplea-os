@@ -18,8 +18,19 @@ header p{color:var(--muted);font-size:18px;margin-top:8px}
 .card{background:var(--card);padding:20px;border-radius:var(--radius);margin-top:20px;text-align:center;backdrop-filter:blur(6px)}
 .card h2{margin-top:0;color:var(--accent2)}
 .card p{color:var(--muted);line-height:1.6}
-.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:20px}
-.gallery img{width:100%;height:500px;object-fit:cover;border-radius:var(--radius)}
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+}
+.gallery img {
+    width: 300px;
+    height: 530px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;   
+    border-radius: var(--radius);
+}
 footer{text-align:center;margin-top:30px;color:var(--muted);font-size:20px}
 @media(max-width:600px){
 header h1{font-size:32px}
@@ -35,3 +46,88 @@ img:hover {
   transform: translateY(-5px);
   transition: all 0.5s ease-in-out;
 }
+
+button {
+    width: 180px;
+    padding: 15px 20px;
+    font-size: 18px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.3s;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    
+}
+
+button:hover {
+  background: #fbcfe8;
+}
+
+.girasol {
+    position: fixed;
+    animation: caer 40s linear forwards;
+    pointer-events: none;
+    opacity: 0.95;
+
+    /* brillo suave */
+    filter: drop-shadow(0 0 10px yellow) brightness(1.2);
+}
+
+@keyframes caer {
+    0% {
+        transform: translateY(0) rotate(0deg);
+    }
+    100% {
+        transform: translateY(110vh) rotate(1080deg);
+    }
+}
+/* BOTÓN */
+#toggleDecoracion {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    font-size: 18px;
+    background: #ff4081;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    z-index: 99999;
+    box-shadow: 0 5px 15px rgba(255, 64, 129, 0.4);
+    transition: 0.3s;
+}
+
+#toggleDecoracion:hover {
+    transform: scale(1.1);
+}
+
+/* ELEMENTOS CAÍDOS (girasoles y corazones) */
+.decoracion {
+    position: fixed;
+    top: -80px;
+    pointer-events: none;
+    opacity: 0.95;
+    animation: caer 40s linear forwards;
+}
+
+/* BRILLO */
+.girasol {
+    filter: drop-shadow(0 0 10px yellow) brightness(1.2);
+}
+
+.corazon {
+    filter: drop-shadow(0 0 15px pink) brightness(1.4);
+}
+
+/* ANIMACIÓN */
+@keyframes caer {
+    0% { transform: translateY(0) rotate(0deg); }
+    100% { transform: translateY(110vh) rotate(1080deg); }
+}
+
+
